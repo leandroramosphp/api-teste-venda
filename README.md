@@ -22,7 +22,6 @@ Após essa instalação execute a aplicação com o comando `yarn dev` ou `npm r
 
 [Leandro Ramos Developer]
 
-[YouTube](https://www.youtube.com/leandroramosjava) e
-[YouTube](https://www.youtube.com/leandroramosphp)
+[YouTube Leandro Ramos java](https://www.youtube.com/channel/UCgz4bR33FuwOC7wq0uG61HA) e
 
 [LinkedIn](https://www.linkedin.com/in/leandror1/)
