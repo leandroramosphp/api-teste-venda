@@ -20,7 +20,7 @@ Após essa instalação execute a aplicação com o comando `yarn dev` ou `npm r
 
 ## Redes Sociais
 
-[Site Aluizio Developer](https://aluiziodeveloper.com.br)
+[Leandro Ramos Developer]
 
 [YouTube](https://www.youtube.com/leandroramosjava) e
 [YouTube](https://www.youtube.com/leandroramosphp)
